@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\student\source\repos\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\student\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\student\source\repos\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
+C:\Users\nik-z\Desktop\кукшева\RoomArea\RoomsArea-master\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\nik-z\Desktop\кукшева\RoomArea\RoomsArea-master\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\nik-z\Desktop\кукшева\RoomArea\RoomsArea-master\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\nik-z\Desktop\кукшева\RoomArea\RoomsArea-master\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nik-z\Desktop\кукшева\RoomArea\RoomsArea-master\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\nik-z\Desktop\кукшева\RoomArea\RoomsArea-master\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb

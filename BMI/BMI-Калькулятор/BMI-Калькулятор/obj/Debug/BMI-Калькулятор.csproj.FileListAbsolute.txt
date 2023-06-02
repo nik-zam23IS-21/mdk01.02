@@ -1,0 +1,44 @@
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe.config
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.pdb
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.AssemblyReference.cache
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Form1.resources
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Properties.Resources.resources
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.GenerateResource.cache
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.exe
+C:\Users\Сафа\source\repos\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.pdb
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe.config
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.pdb
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Form1.resources
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Properties.Resources.resources
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.GenerateResource.cache
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.exe
+C:\Users\student\Desktop\калькулятор BMI\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.pdb
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe.config
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.pdb
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.AssemblyReference.cache
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Form1.resources
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Properties.Resources.resources
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.GenerateResource.cache
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.exe
+C:\Users\student\Documents\cringe-main\cringe-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.pdb
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe.config
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.exe
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\bin\Debug\BMI-Калькулятор.pdb
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.AssemblyReference.cache
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Form1.resources
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI_Калькулятор.Properties.Resources.resources
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.GenerateResource.cache
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.exe
+C:\Users\nik-z\Desktop\кукшева\789-main\BMI-Калькулятор\BMI-Калькулятор\obj\Debug\BMI-Калькулятор.pdb
